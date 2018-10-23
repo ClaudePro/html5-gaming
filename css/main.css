@@ -1,0 +1,22 @@
+#canvas {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    /* background: url("https://cdn.hipwallpaper.com/i/70/63/x15lTz.jpg");
+    background-repeat: repeat;
+    background-position: 0 0;
+    background-size: auto 100%; */
+  /*adjust s value for speed*/
+    /* animation: canvas 80s linear infinite; */
+  }
+  
+  /* @keyframes canvas {
+    from {
+      background-position: 0 0;
+    }
+
+    to {
+      background-position: -10000px 0;
+    }
+  } */
